@@ -1,0 +1,1 @@
+wikipediaPreview.init({root:document,detectLinks:!!wikipediapreview_init_options.detectLinks});
